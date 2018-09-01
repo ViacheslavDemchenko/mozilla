@@ -1,0 +1,95 @@
+@media screen and (max-width: 640px) {
+
+    #menu-burger-button + nav > label {
+        display: block;
+    }
+
+    .header {
+        height: auto;
+    }
+
+    .header-middle {
+        height: auto;
+    }
+
+    .header-menu nav {
+        display: none;
+    }
+
+    .header-logo {
+        text-align: center;
+    }
+
+    section {
+        padding: 2rem 1rem;
+    }
+
+    #expertise .column {
+        border: none;
+        border-bottom: 1px solid #ebebeb !important;
+    }
+
+    #team img {
+        justify-content: center;
+    }
+
+    #team .row {
+        display: block;
+    }
+
+    #team {
+        text-align: center;
+    }
+
+    .team-member {
+        margin-bottom: 2rem;
+    }
+
+    #about h3, a {
+        text-align: center;
+    }
+
+    #works {
+        text-align: center;
+        display: block;
+    }
+
+    #people-say {
+        text-align: center;
+        display: block;
+    }
+
+    #contacts {
+        text-align: center;
+        display: block;
+    }
+
+    #contacts ul {
+        text-align: center;
+        display: block;
+    }
+
+    #contacts .btn {
+        text-align: center;
+    }
+
+    .form {
+        width: 250px;
+
+    }
+
+    .textarea {
+        width: 250px;
+
+    }
+    .form-block {
+        display: block;
+        max-width: 250px;
+    }
+    .block1 img {
+        justify-content: center;
+    }
+    .block1 h4 {
+        justify-content: center;
+    }
+}
